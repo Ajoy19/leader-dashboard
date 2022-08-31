@@ -1,0 +1,33 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.bg{
+    background-color: #562EFF;
+}
+.logo{
+    width: 26px;
+}
+.body-color{
+    background-color: #E5E5E5;
+}
+.player-size{
+    width: 56px;
+}
+.top-color{
+    color: #562EFF;
+}
+.blog-image-size{
+    width: 177px;
+}
+.corner{
+    border-radius: 20px;
+}
+.course-image-size{
+    width: 260px;
+}
+.box{
+    background-color: #FFE4E8;
+    padding: 5px 10px;
+    border: 1px solid red;
+    border-radius: 25px;
+}
